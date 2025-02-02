@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ds6dQp4CuJQ=",
+  "dgSpecHash": "x4RNUtTLLz8=",
   "success": true,
   "projectFilePath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Application\\TaskManagement.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Monster\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
   "logs": []
 }

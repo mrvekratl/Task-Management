@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "W/pKLZRuHaY=",
+  "dgSpecHash": "w13CMmZTxGM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.API\\TaskManagement.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Monster\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.12\\microsoft.aspnetcore.openapi.8.0.12.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
