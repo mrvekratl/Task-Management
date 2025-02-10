@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oK3KgPK7o0E=",
+  "dgSpecHash": "Fd+MVYsEEz8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Monster\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

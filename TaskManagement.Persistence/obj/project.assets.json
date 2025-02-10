@@ -1547,11 +1547,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Persistence\\TaskManagement.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Persistence\\TaskManagement.Persistence.csproj",
       "projectName": "TaskManagement.Persistence",
-      "projectPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Persistence\\TaskManagement.Persistence.csproj",
+      "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Persistence\\TaskManagement.Persistence.csproj",
       "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1569,8 +1569,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Application\\TaskManagement.Application.csproj": {
-              "projectPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Application\\TaskManagement.Application.csproj"
+            "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Application\\TaskManagement.Application.csproj": {
+              "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Application\\TaskManagement.Application.csproj"
             }
           }
         }

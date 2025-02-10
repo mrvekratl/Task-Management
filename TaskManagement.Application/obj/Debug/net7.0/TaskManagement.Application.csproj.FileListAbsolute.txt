@@ -32,3 +32,21 @@ C:\Users\Monster\Desktop\TaskManagementApplication-main\TaskManagementApplicatio
 C:\Users\Monster\Desktop\TaskManagementApplication-main\TaskManagementApplication-main\TaskManagement.Application\obj\Debug\net7.0\refint\TaskManagement.Application.dll
 C:\Users\Monster\Desktop\TaskManagementApplication-main\TaskManagementApplication-main\TaskManagement.Application\obj\Debug\net7.0\TaskManagement.Application.pdb
 C:\Users\Monster\Desktop\TaskManagementApplication-main\TaskManagementApplication-main\TaskManagement.Application\obj\Debug\net7.0\ref\TaskManagement.Application.dll
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\bin\Debug\net7.0\TaskManagement.Application.deps.json
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\bin\Debug\net7.0\TaskManagement.Application.dll
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\bin\Debug\net7.0\TaskManagement.Application.pdb
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\bin\Debug\net7.0\TaskManagement.Common.dll
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\bin\Debug\net7.0\TaskManagement.Domain.dll
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\bin\Debug\net7.0\TaskManagement.Domain.pdb
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\bin\Debug\net7.0\TaskManagement.Common.pdb
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\obj\Debug\net7.0\TaskManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\obj\Debug\net7.0\TaskManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\obj\Debug\net7.0\TaskManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\obj\Debug\net7.0\TaskManagement.Application.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\obj\Debug\net7.0\TaskManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\obj\Debug\net7.0\TaskManagement.Application.sourcelink.json
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\obj\Debug\net7.0\TaskMana.B5C26166.Up2Date
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\obj\Debug\net7.0\TaskManagement.Application.dll
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\obj\Debug\net7.0\refint\TaskManagement.Application.dll
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\obj\Debug\net7.0\TaskManagement.Application.pdb
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Application\obj\Debug\net7.0\ref\TaskManagement.Application.dll

@@ -21,3 +21,15 @@ C:\Users\Monster\Desktop\TaskManagementApplication-main\TaskManagementApplicatio
 C:\Users\Monster\Desktop\TaskManagementApplication-main\TaskManagementApplication-main\TaskManagement.Common\obj\Debug\net7.0\refint\TaskManagement.Common.dll
 C:\Users\Monster\Desktop\TaskManagementApplication-main\TaskManagementApplication-main\TaskManagement.Common\obj\Debug\net7.0\TaskManagement.Common.pdb
 C:\Users\Monster\Desktop\TaskManagementApplication-main\TaskManagementApplication-main\TaskManagement.Common\obj\Debug\net7.0\ref\TaskManagement.Common.dll
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Common\bin\Debug\net7.0\TaskManagement.Common.deps.json
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Common\bin\Debug\net7.0\TaskManagement.Common.dll
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Common\bin\Debug\net7.0\TaskManagement.Common.pdb
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Common\obj\Debug\net7.0\TaskManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Common\obj\Debug\net7.0\TaskManagement.Common.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Common\obj\Debug\net7.0\TaskManagement.Common.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Common\obj\Debug\net7.0\TaskManagement.Common.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Common\obj\Debug\net7.0\TaskManagement.Common.sourcelink.json
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Common\obj\Debug\net7.0\TaskManagement.Common.dll
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Common\obj\Debug\net7.0\refint\TaskManagement.Common.dll
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Common\obj\Debug\net7.0\TaskManagement.Common.pdb
+C:\Users\Monster\Desktop\Github\Task Management System\Task-Management\TaskManagement.Common\obj\Debug\net7.0\ref\TaskManagement.Common.dll

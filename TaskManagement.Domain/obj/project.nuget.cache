@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XhUfbkhQv8k=",
+  "dgSpecHash": "/zdWeiCkm38=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Monster\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
     "C:\\Users\\Monster\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",

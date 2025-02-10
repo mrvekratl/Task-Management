@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Persistence\\TaskManagement.Persistence.csproj": {}
+    "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Persistence\\TaskManagement.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Application\\TaskManagement.Application.csproj": {
+    "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Application\\TaskManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Application\\TaskManagement.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Application\\TaskManagement.Application.csproj",
         "projectName": "TaskManagement.Application",
-        "projectPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Application\\TaskManagement.Application.csproj",
+        "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Application\\TaskManagement.Application.csproj",
         "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Application\\obj\\",
+        "outputPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Domain\\TaskManagement.Domain.csproj"
+              "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Domain\\TaskManagement.Domain.csproj"
               }
             }
           }
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Common\\TaskManagement.Common.csproj": {
+    "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Common\\TaskManagement.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Common\\TaskManagement.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Common\\TaskManagement.Common.csproj",
         "projectName": "TaskManagement.Common",
-        "projectPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Common\\TaskManagement.Common.csproj",
+        "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Common\\TaskManagement.Common.csproj",
         "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Common\\obj\\",
+        "outputPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {
+    "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
         "projectName": "TaskManagement.Domain",
-        "projectPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
+        "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Domain\\TaskManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -193,8 +193,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Common\\TaskManagement.Common.csproj": {
-                "projectPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Common\\TaskManagement.Common.csproj"
+              "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Common\\TaskManagement.Common.csproj": {
+                "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Common\\TaskManagement.Common.csproj"
               }
             }
           }
@@ -247,14 +247,14 @@
         }
       }
     },
-    "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Persistence\\TaskManagement.Persistence.csproj": {
+    "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Persistence\\TaskManagement.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Persistence\\TaskManagement.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Persistence\\TaskManagement.Persistence.csproj",
         "projectName": "TaskManagement.Persistence",
-        "projectPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Persistence\\TaskManagement.Persistence.csproj",
+        "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Persistence\\TaskManagement.Persistence.csproj",
         "packagesPath": "C:\\Users\\Monster\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Monster\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -272,8 +272,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Application\\TaskManagement.Application.csproj": {
-                "projectPath": "C:\\Users\\Monster\\Desktop\\TaskManagementApplication-main\\TaskManagementApplication-main\\TaskManagement.Application\\TaskManagement.Application.csproj"
+              "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Application\\TaskManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.Application\\TaskManagement.Application.csproj"
               }
             }
           }
