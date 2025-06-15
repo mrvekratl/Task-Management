@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EF0145D-91E5-412D-9977-27274B82E341}|TaskManagement.API\\TaskManagement.API.csproj|c:\\users\\monster\\desktop\\github\\task management system\\task-management\\taskmanagement.api\\taskmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5EF0145D-91E5-412D-9977-27274B82E341}|TaskManagement.API\\TaskManagement.API.csproj|solutionrelative:taskmanagement.api\\taskmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5EF0145D-91E5-412D-9977-27274B82E341}|TaskManagement.API\\TaskManagement.API.csproj|c:\\users\\monster\\desktop\\github\\task management system\\task-management\\taskmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EF0145D-91E5-412D-9977-27274B82E341}|TaskManagement.API\\TaskManagement.API.csproj|solutionrelative:taskmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TaskManagement.API",
-              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.API\\TaskManagement.API.csproj",
-              "RelativeDocumentMoniker": "TaskManagement.API\\TaskManagement.API.csproj",
-              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.API\\TaskManagement.API.csproj",
-              "RelativeToolTip": "TaskManagement.API\\TaskManagement.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-10T10:15:15.665Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Monster\\Desktop\\Github\\Task Management System\\Task-Management\\TaskManagement.API\\appsettings.json",
+              "RelativeToolTip": "TaskManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-14T00:42:54.919Z",
               "EditorCaption": ""
             }
           ]
